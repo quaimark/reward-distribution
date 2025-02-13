@@ -1,31 +1,51 @@
 {
-  "root": "574381cac126491e15543822d33d3a1225792c6712bb7d7ea34e2d4fff99bcd5",
+  "root": "2e9fdf6df33ab692a09a3006b741eb28a2c44496d6ef3ab9f5ab5cdb9e0030e5",
   "season": "Golden Age",
   "tiers": [
     {
       "tier": 1,
-      "score": 500000,
-      "allocation": 500
+      "score": 2500000,
+      "allocation": 1800
     },
     {
       "tier": 2,
-      "score": 300000,
-      "allocation": 300
+      "score": 1000000,
+      "allocation": 435
     },
     {
       "tier": 3,
-      "score": 100000,
-      "allocation": 100
+      "score": 500000,
+      "allocation": 206
     },
     {
       "tier": 4,
-      "score": 50000,
-      "allocation": 50
+      "score": 200000,
+      "allocation": 138
     },
     {
       "tier": 5,
+      "score": 150000,
+      "allocation": 90
+    },
+    {
+      "tier": 6,
+      "score": 100000,
+      "allocation": 48
+    },
+    {
+      "tier": 7,
+      "score": 50000,
+      "allocation": 16
+    },
+    {
+      "tier": 8,
       "score": 10000,
-      "allocation": 10
+      "allocation": 6
+    },
+    {
+      "tier": 9,
+      "score": 5000,
+      "allocation": 2
     }
   ]
 }
