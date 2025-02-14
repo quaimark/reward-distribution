@@ -1,0 +1,54 @@
+{
+  "root": "467b62855b36bdaf4c564c54f80287a8af615039551e9c2646ea808ccb405944",
+  "season": "Golden Age",
+  "tiers": [
+    {
+      "tier": 1,
+      "score": 1000000,
+      "allocation": 1800
+    },
+    {
+      "tier": 2,
+      "score": 500000,
+      "allocation": 435
+    },
+    {
+      "tier": 3,
+      "score": 200000,
+      "allocation": 206
+    },
+    {
+      "tier": 4,
+      "score": 150000,
+      "allocation": 139
+    },
+    {
+      "tier": 5,
+      "score": 100000,
+      "allocation": 90
+    },
+    {
+      "tier": 6,
+      "score": 50000,
+      "allocation": 48
+    },
+    {
+      "tier": 7,
+      "score": 10000,
+      "allocation": 16
+    },
+    {
+      "tier": 8,
+      "score": 5000,
+      "allocation": 6
+    },
+    {
+      "tier": 9,
+      "score": 1000,
+      "allocation": 3
+    }
+  ],
+  "decimal":18,
+  "contract": "0x004E2F3a68f955145630354aA192970c94951273",
+  "description": "<p>Share Reward for &ldquo;The Golden Age Testnet</p>\n<p><br></p>\n<p>If you have Xxxx QM Points at &quot;The Golden Age Testnet&quot; Season, you will receive: A QUAI</p>\n<p><br></p>\n<p>Your QM Point is based on adjusted QUAI volume and your Pointing relative to other users determines your allocation.</p>\n<p><br></p>\n<p>* Qualifying transactions must be The Golden Age Testnet and reach over 1,000 QM Points (equivalent to 100 QUAI).</p>\n<p><br></p>\n<p>* Based on QM points, there are 9 tiers (table above) eligible for rewards.</p>\n<p><br></p>\n<p>* The claim period is only 30 days, starting to allow claims.</p>"
+}
