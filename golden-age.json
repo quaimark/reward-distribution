@@ -4,47 +4,47 @@
   "tiers": [
     {
       "tier": 1,
-      "score": 2500000,
+      "score": 1000000,
       "allocation": 1800
     },
     {
       "tier": 2,
-      "score": 1000000,
+      "score": 500000,
       "allocation": 435
     },
     {
       "tier": 3,
-      "score": 500000,
+      "score": 200000,
       "allocation": 206
     },
     {
       "tier": 4,
-      "score": 200000,
+      "score": 150000,
       "allocation": 138
     },
     {
       "tier": 5,
-      "score": 150000,
+      "score": 100000,
       "allocation": 90
     },
     {
       "tier": 6,
-      "score": 100000,
+      "score": 50000,
       "allocation": 48
     },
     {
       "tier": 7,
-      "score": 50000,
+      "score": 10000,
       "allocation": 16
     },
     {
       "tier": 8,
-      "score": 10000,
+      "score": 5000,
       "allocation": 6
     },
     {
       "tier": 9,
-      "score": 5000,
+      "score": 1000,
       "allocation": 2
     }
   ]
