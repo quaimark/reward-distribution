@@ -20,7 +20,7 @@
     {
       "tier": 4,
       "score": 150000,
-      "allocation": 138
+      "allocation": 139
     },
     {
       "tier": 5,
@@ -45,7 +45,7 @@
     {
       "tier": 9,
       "score": 1000,
-      "allocation": 2
+      "allocation": 3
     }
   ],
   "decimal":18,
