@@ -50,6 +50,7 @@
     }
   ],
   "decimal":18,
+  "total": 16097,
   "contract": "0x0069a061958024230f8C1C935a6Ed17e73a1a4Bd",
   "enableAt": 1740009600000,
   "description": "<p>* Your QM Point is based on adjusted QUAI volume and your Pointing relative to other users determines your allocation.</p>\n<p><br></p>\n<p>* Qualifying transactions must be The Golden Age Testnet and reach over 1,000 QM Points (equivalent to 100 QUAI).</p>\n<p><br></p>\n<p>* Based on QM points, there are 9 tiers (table above) eligible for rewards.</p>\n<p><br></p>\n<p>* The claim period is only 30 days, starting to allow claims.</p>"
